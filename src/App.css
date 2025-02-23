@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin-top: 200px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-left: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: 1px solid grey;
+  border-radius: 10px;
+  background-color: rgb(198, 253, 154);
+}
+
+.formatted-text {
+  margin-top: 20px;
+  font-size: 25px;
+	font-weight: 800;
+  color: rgb(198, 253, 154);
+}
